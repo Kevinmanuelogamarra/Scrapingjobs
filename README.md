@@ -4,7 +4,7 @@ En el archivo "Scraping Jobs.ipynb" se encuentra la versión final del script qu
 ## Cambios a realizar para personalizar la búsqueda
 
 ### 1. Búsquedas
-Mi proyecto lo desarrollé en torno a seis búsquedas en específico: DATA SCIENCE, DATA ANALYST, ANALISTA DE PLANEAMIENTO, ANALISTA DE RIESGOAN, ALISTA JUNIOR y BUSINESS INTELLIGENCE.
+Mi proyecto lo desarrollé en torno a seis búsquedas en específico: DATA SCIENCE, DATA ANALYST, ANALISTA DE PLANEAMIENTO, ANALISTA DE RIESGO, ALISTA JUNIOR y BUSINESS INTELLIGENCE.
 Para personalizar la búsqueda, se deberá actualizar la URL que se debe analizar según sea el caso en el driver.get:
 ![image](https://github.com/Kevinmanuelogamarra/Scrapingjobs/assets/109931089/b7824127-7e87-4d1d-8b51-6b51754f8386)
 * Recordar que se debe cambiar la URL tanto en la sección de Indeed, como en la de Bumeran.
